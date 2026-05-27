@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la Images)",
+      "Bash(ls -la images)",
+      "WebFetch(domain:www.alasalmarbles.com)",
+      "WebSearch",
+      "WebFetch(domain:gulfnews.com)",
+      "Bash(command -v chromium-cli)",
+      "Bash(cd \"C:\\\\Users\\\\anike\\\\.claude\\\\projects\\\\d--Cogent-AL-Assal-meta-ads-landing-page\\\\memory\")",
+      "Bash(ls -la)",
+      "Bash(cat MEMORY.md)"
+    ]
+  }
+}
