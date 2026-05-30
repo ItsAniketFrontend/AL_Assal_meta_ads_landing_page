@@ -9,7 +9,15 @@
       "Bash(command -v chromium-cli)",
       "Bash(cd \"C:\\\\Users\\\\anike\\\\.claude\\\\projects\\\\d--Cogent-AL-Assal-meta-ads-landing-page\\\\memory\")",
       "Bash(ls -la)",
-      "Bash(cat MEMORY.md)"
+      "Bash(cat MEMORY.md)",
+      "Bash(cd \"d:\\\\Cogent\\\\AL_Assal_meta_ads_landing_page\" && rm -f _nogsap_test.html && echo \"removed temp test file\")",
+      "Bash(cd \"d:\\\\Cogent\\\\AL_Assal_meta_ads_landing_page\" && rm -f _tmp_nogsap.html && ls -1)",
+      "Bash(gh repo *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ],
+    "additionalDirectories": [
+      "d:\\Cogent\\AL_Assal_meta_ads_landing_page"
     ]
   }
 }
